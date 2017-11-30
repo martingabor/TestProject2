@@ -1,9 +1,9 @@
 //
 //  AppDelegate.swift
-//  Food tracker
+//  FoodTracker
 //
-//  Created by Martin Gábor on 30.11.17.
-//  Copyright © 2017 Martin Gábor. All rights reserved.
+//  Created by Jane Appleseed on 10/17/16.
+//  Copyright © 2016 Apple Inc. All rights reserved.
 //
 
 import UIKit
@@ -15,7 +15,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
-        // Override point for customization after application launch.        
+        // Override point for customization after application launch.
         return true
     }
 

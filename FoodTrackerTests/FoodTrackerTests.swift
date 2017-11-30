@@ -1,15 +1,15 @@
 //
-//  Food_trackerTests.swift
-//  Food trackerTests
+//  FoodTrackerTests.swift
+//  FoodTrackerTests
 //
-//  Created by Martin Gábor on 30.11.17.
-//  Copyright © 2017 Martin Gábor. All rights reserved.
+//  Created by Jane Appleseed on 10/17/16.
+//  Copyright © 2016 Apple Inc. All rights reserved.
 //
 
 import XCTest
-@testable import Food_tracker
+@testable import FoodTracker
 
-class Food_trackerTests: XCTestCase {
+class FoodTrackerTests: XCTestCase {
     
     override func setUp() {
         super.setUp()
